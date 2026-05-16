@@ -28,5 +28,5 @@ public final class StringUtils {
         return Character.toUpperCase(s.charAt(0)) + s.substring(1);
     }
 
-    // TODO (Даалгавар 2): public static String reverse(String s) { ... }
+   
 }
